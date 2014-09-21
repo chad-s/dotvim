@@ -1,0 +1,27 @@
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/bling/vim-airline
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = https://github.com/Shougo/neocomplcache.vim
+[submodule "bundle/solarized"]
+	path = bundle/solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "bundle/vividchalk"]
+	path = bundle/vividchalk
+	url = https://github.com/tpope/vim-vividchalk
+[submodule "bundle/jellybeans"]
+	path = bundle/jellybeans
+	url = https://github.com/nanotech/jellybeans.vim
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/matlab"]
+	path = bundle/matlab
+	url = https://github.com/vim-scripts/MatlabFilesEdition
