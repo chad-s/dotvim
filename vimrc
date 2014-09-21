@@ -1,4 +1,5 @@
 " Adds pathogen pluggin manager compatability
+:set nocp
 call pathogen#infect()
 call pathogen#helptags()
 
@@ -36,8 +37,9 @@ filetype plugin on
 set expandtab
 
 " Settings for avoiding tabs in code.
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=3
+set softtabstop=3
+set tabstop=3
 
 " Show cursor position
 :set ruler
