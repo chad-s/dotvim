@@ -25,3 +25,9 @@
 [submodule "bundle/matlab"]
 	path = bundle/matlab
 	url = https://github.com/vim-scripts/MatlabFilesEdition
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/tclem/vim-arduino.git
+[submodule "bundle/arduino"]
+	path = bundle/arduino
+	url = https://github.com/tclem/vim-arduino.git
