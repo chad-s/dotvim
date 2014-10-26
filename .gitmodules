@@ -1,9 +1,6 @@
 [submodule "bundle/airline"]
 	path = bundle/airline
 	url = https://github.com/bling/vim-airline
-[submodule "bundle/neocomplcache"]
-	path = bundle/neocomplcache
-	url = https://github.com/Shougo/neocomplcache.vim
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized
@@ -22,12 +19,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic
-[submodule "bundle/matlab"]
-	path = bundle/matlab
-	url = https://github.com/vim-scripts/MatlabFilesEdition
-[submodule "arduino"]
-	path = arduino
-	url = https://github.com/tclem/vim-arduino.git
 [submodule "bundle/arduino"]
 	path = bundle/arduino
 	url = https://github.com/tclem/vim-arduino.git
