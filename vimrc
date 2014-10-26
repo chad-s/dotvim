@@ -22,7 +22,12 @@ autocmd BufEnter *.m compiler mlint
 "let g:vim_arduino_serial_port = /my/serial/port
 
 " Neocomplete stuff
-let g:neocompletecache_enable_at_startup=1
+" Enable AutoComplPop.
+let g:acp_enableAtStartup = 1
+" Use neocomplete.
+let g:neocomplete#enable_at_startup = 1
+" Use smartcase.
+let g:neocomplete#enable_smart_case = 1
 
 " Airline plugin stuff
 set laststatus=2
