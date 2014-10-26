@@ -22,3 +22,6 @@
 [submodule "bundle/arduino"]
 	path = bundle/arduino
 	url = https://github.com/tclem/vim-arduino.git
+[submodule "bundle/Matlab_Bundle"]
+	path = bundle/Matlab_Bundle
+	url = https://github.com/sgeb/vim-matlab.git
