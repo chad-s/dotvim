@@ -21,13 +21,8 @@ autocmd BufEnter *.m compiler mlint
 "Default: result of `$(ls /dev/tty.* | grep usb)`
 "let g:vim_arduino_serial_port = /my/serial/port
 
-" Neocomplete stuff
-" Enable AutoComplPop.
-let g:acp_enableAtStartup = 1
-" Use neocomplete.
-let g:neocomplete#enable_at_startup = 1
-" Use smartcase.
-let g:neocomplete#enable_smart_case = 1
+" YouCompleteMe  stuff
+let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/.ycm_extra_config.py"
 
 " Airline plugin stuff
 set laststatus=2
