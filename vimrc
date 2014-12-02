@@ -22,7 +22,7 @@ autocmd BufEnter *.m compiler mlint
 "let g:vim_arduino_serial_port = /my/serial/port
 
 " YouCompleteMe  stuff
-"let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/.ycm_extra_config.py"
+let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/.ycm_extra_config.py"
 
 " Airline plugin stuff
 set laststatus=2
