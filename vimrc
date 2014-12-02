@@ -22,7 +22,7 @@ autocmd BufEnter *.m compiler mlint
 "let g:vim_arduino_serial_port = /my/serial/port
 
 " YouCompleteMe  stuff
-let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/.ycm_extra_config.py"
+"let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/.ycm_extra_config.py"
 
 " Airline plugin stuff
 set laststatus=2
@@ -43,9 +43,9 @@ filetype plugin on
 set expandtab
 
 " Settings for avoiding tabs in code.
-set shiftwidth=3
-set softtabstop=3
-set tabstop=3
+set shiftwidth=2
+set softtabstop=2
+set tabstop=2
 
 " Show cursor position
 :set ruler
